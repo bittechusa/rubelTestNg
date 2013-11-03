@@ -1,6 +1,5 @@
 
-public class TestMvnNG 
-{
+
 	import org.openqa.selenium.By;
 	import org.openqa.selenium.firefox.FirefoxDriver;
 	import org.testng.annotations.AfterTest;
@@ -8,7 +7,7 @@ public class TestMvnNG
 	import org.testng.annotations.Test;
 
 
-	public class MavenTestNG 
+	public class TestMvnNG 
 	{
 	FirefoxDriver driver=new FirefoxDriver();
 
@@ -29,4 +28,4 @@ public class TestMvnNG
 		}
 	}
 
-}
+
